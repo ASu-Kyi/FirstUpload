@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Test
         run: |
-          Write-Output "Amigoscode"
+          Write-Output "Amigoscodes"
